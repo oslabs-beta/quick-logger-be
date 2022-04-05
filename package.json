@@ -1,0 +1,8 @@
+{
+    "name": "sherlogs-logger",
+    "version": "1.0.0",
+    "description": "Package for adding loggers to an application that will be monitored by Sherlogs",
+    "license": "MIT",
+    "repository": "oslabs-beta/sherlogs-logger",
+    "main": "index.js"
+}
