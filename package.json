@@ -1,14 +1,14 @@
 {
     "name": "sherlogs-logger",
     "version": "1.0.0",
-    "description": "Package for adding loggers to an application that will be monitored by Sherlogs",
+    "description": "Package for adding backend loggers to an application that will be monitored by Sherlogs",
     "license": "MIT",
     "repository": "oslabs-beta/sherlogs-logger",
-    "main": "index.js",
+    "main": "sherlogs-backend-logger.js",
     "dependencies": {
-        "loglevel": "^1.8.0",
-        "loglevel-plugin-remote": "^0.6.8",
-        "winston": "^3.7.2",
-        "winston-transport-http-stream": "^0.1.4"
+        "dotenv": "16.0.0",
+        "morgan": "^1.10.0",
+        "winston": "3.7.2",
+        "winston-transport-http-stream": "0.1.4"
     }
 }
