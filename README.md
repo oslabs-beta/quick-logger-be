@@ -24,7 +24,7 @@ Create a .env file in the root directory.  See the .env.Example file for formatt
 LOGS_API_ENDPOINT= //insert API endpoint here
 ```
 
-If you are using Webpack v.5 or later, you will also need to install the [node-polyfill-webpack-plugin](https://www.npmjs.com/package/node-polyfill-webpack-plugin).
+If you are using Webpack v.5 or later, you might also need to install the [node-polyfill-webpack-plugin](https://www.npmjs.com/package/node-polyfill-webpack-plugin).
 
 Install the package:
 ```
