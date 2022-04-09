@@ -1,5 +1,5 @@
 # quick-logger-be
-------
+
 Quick-logger-be is a tool that allows developers to quickly add a logger to gather information from their backend application.
 
 ### Features:
@@ -8,7 +8,6 @@ Quick-logger-be is a tool that allows developers to quickly add a logger to gath
 * Logs that are output to the console, written to a file, and sent to a user-provided API endpoint
 
 ## Getting Started
-------
 
 ### Installation
 ```
@@ -45,7 +44,7 @@ module.exports = {
 ```
 
 ## Usage
-------
+
 Configure the logger and transports.
 
 Example:
@@ -73,12 +72,12 @@ myFunctionToWatch () => {
 ```
 
 ## Contributions
-------
+
 contributing to the project
 [Github repo](https://github.com/oslabs-beta/quick-logger-be)
 
 ## Acknowledgements
-------
+
 
 Built with:
 * [morgan](https://www.npmjs.com/package/morgan)
@@ -89,7 +88,7 @@ Authors:
 * [Crystal Pederson](https://github.com/crystalpederson)
 
 ## License
-------
+
 Distributed under the [MIT License](./LICENSE)
 
 add badges
