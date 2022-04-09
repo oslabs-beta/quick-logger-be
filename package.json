@@ -1,14 +1,29 @@
 {
-    "name": "quick-logger-be",
-    "version": "0.1.0",
-    "description": "Package for adding backend loggers to an application that will be monitored by Sherlogs",
-    "license": "MIT",
-    "repository": "oslabs-beta/sherlogs-logger",
-    "main": "lib/logger-be.js",
-    "dependencies": {
-        "dotenv": "16.0.0",
-        "morgan": "^1.10.0",
-        "winston": "3.7.2",
-        "winston-transport-http-stream": "0.1.4"
-    }
+  "name": "quick-logger-be",
+  "version": "0.1.0",
+  "description": "Package for adding backend loggers to an application that will be monitored by Sherlogs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oslabs-beta/quick-logger-be.git"
+  },
+  "main": "lib/logger-be.js",
+  "dependencies": {
+    "dotenv": "16.0.0",
+    "morgan": "^1.10.0",
+    "winston": "3.7.2",
+    "winston-transport-http-stream": "0.1.4"
+  },
+  "bugs": {
+    "url": "https://github.com/oslabs-beta/quick-logger-be/issues"
+  },
+  "homepage": "https://github.com/oslabs-beta/quick-logger-be#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sherlogs"
 }

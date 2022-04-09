@@ -1,2 +1,2 @@
-# sherlogs-logger
-Package for adding loggers to an application that will be monitored by Sherlogs
+# quick-logger-be
+Package for configuring Winston and creating a custom logger that is compatible with Sherlogs
