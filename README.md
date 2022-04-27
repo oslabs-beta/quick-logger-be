@@ -73,7 +73,7 @@ myFunctionToWatch () => {
 
 ## Contributions
 
-contributing to the project
+Contributing to the project:  See the
 [Github repo](https://github.com/oslabs-beta/quick-logger-be)
 
 ## Acknowledgements
