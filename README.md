@@ -86,9 +86,10 @@ Built with:
 
 Authors:
 * [Crystal Pederson](https://github.com/crystalpederson)
+* [Andrés Gutiérrez](https://github.com/Agfeynman)
+* [Kylene Hohman](https://github.com/velveteen-ant)
+* [Felicity Nguyen](https://github.com/felisity09)
 
 ## License
 
 Distributed under the [MIT License](./LICENSE)
-
-add badges
