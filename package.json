@@ -1,11 +1,11 @@
 {
   "name": "quick-logger-be",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Package for adding backend loggers to an application that will be monitored by Sherlogs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oslabs-beta/quick-logger-be.git"
+    "url": "https://github.com/oslabs-beta/quick-logger-be"
   },
   "main": "lib/logger-be.js",
   "dependencies": {
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/oslabs-beta/quick-logger-be/issues"
   },
-  "homepage": "https://github.com/oslabs-beta/quick-logger-be#readme",
+  "homepage": "https://www.quickloggerbe.com/",
   "directories": {
     "lib": "lib"
   },
