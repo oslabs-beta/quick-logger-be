@@ -1,4 +1,4 @@
-# quick-logger-be
+# quick-logger-be 
 
 Quick-logger-be is a tool that allows developers to quickly add a logger to gather information from their backend application.
 
@@ -85,10 +85,10 @@ Built with:
 * [winston-transport-http-stream](https://www.npmjs.com/package/winston-transport-http-stream)
 
 Authors:
-* [Crystal Pederson](https://github.com/crystalpederson)
-* [Andrés Gutiérrez](https://github.com/Agfeynman)
-* [Kylene Hohman](https://github.com/velveteen-ant)
-* [Felicity Nguyen](https://github.com/felisity09)
+* Crystal Pederson | [GitHub](https://github.com/crystalpederson) | [LinkedIn](https://www.linkedin.com/in/crystalpederson/)
+* Andrés Gutiérrez | [Github](https://github.com/Agfeynman) | [LinkedIn](https://www.linkedin.com/in/andresgutierrezramirez/)
+* Kylene Hohman | [Github](https://github.com/velveteen-ant) | [LinkedIn](https://www.linkedin.com/in/kylene-hohman/)
+* Felicity Nguyen | [Github](https://github.com/felisity09) | [LinkedIn](https://www.linkedin.com/in/felicity09/)
 
 ## License
 
