@@ -1,4 +1,5 @@
 # quick-logger-be 
+![npm](https://img.shields.io/npm/v/quick-logger-be?style=plastic) ![NPM](https://img.shields.io/npm/l/quick-logger-be?style=plastic)
 
 Quick-logger-be is a tool that allows developers to quickly add a logger to gather information from their backend application.
 
